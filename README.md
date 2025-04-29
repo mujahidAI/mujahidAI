@@ -13,7 +13,7 @@ I'm a passionate programmer with expertise in multiple programming languages and
 - 🌱 I'm always learning and exploring new technologies
 - 👯 I'm looking to collaborate on data science and AI projects
 - 💬 Ask me about Python, Data Analysis, or AI/ML
-- ⚡ Fun fact: When I'm not coding, I enjoy [Your Hobby/Interest]
+- ⚡ Fun fact: Outside coding, I enjoy exploring new advancements in AI and tech.
 
 ## 🚀 Skills
 

@@ -77,57 +77,6 @@ I'm an AI Engineer and Python Backend Developer with hands-on experience designi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🤖 AI & RAG Systems
-
-**[Agentic RAG Pipeline with SQL Toolkit](https://github.com/MujahidAI)**
-> Agentic system using LangChain's SQL agent and tool/function calling to retrieve and synthesize context from SQL and NoSQL sources. Features FAISS vector search, session-aware chat, streaming LLM responses, and CI/CD via GitHub Actions.
-
-`LangChain` `FAISS` `FastAPI` `PostgreSQL` `GitHub Actions`
-
----
-
-**[RAG-Based Search Engine](https://github.com/MujahidAI)**
-> Retrieval-augmented system combining real-time data sources (ArXiv, Wikipedia, DuckDuckGo) with LLM answer generation. Implements document chunking, embedding generation, and semantic retrieval with a tuned evaluation pipeline.
-
-`LangChain` `FastAPI` `Streamlit` `Vector Embeddings`
-
----
-
-**[Document Q&A Chatbot](https://github.com/MujahidAI)**
-> Chatbot capable of querying PDF and DOCX files using semantic search and contextual response generation. Reduces hallucinations through structured retrieval filtering.
-
-`LangGraph` `FastAPI` `Vector Search`
-
----
-
-### ⚙️ Backend Systems
-
-**[Vibera — Social Media Backend](https://github.com/MujahidAI)**
-> Full-stack social platform with Django REST APIs for posts, comments, likes, and follower relationships. Includes React frontend, JWT authentication, email verification, and 2FA.
-
-`Django REST Framework` `React` `PostgreSQL` `JWT` `2FA`
-
----
-
-**[Real-Time Notification System](https://github.com/MujahidAI)**
-> WebSocket-based notification backend with Django Channels for instant user updates across sessions. Uses Django signals to trigger real-time events for messages, comments, and activity alerts.
-
-`Django Channels` `WebSockets` `Django Signals`
-
----
-
-## 📘 Certifications
-
-- Generative AI with LangChain and HuggingFace
-- Machine Learning Specialization — DeepLearning.AI
-
----
-
-<div align="center">
-
 *Open to AI Engineering and Backend Developer roles*
 
 **[mr.mujahidislam@gmail.com](mailto:mr.mujahidislam@gmail.com)**
